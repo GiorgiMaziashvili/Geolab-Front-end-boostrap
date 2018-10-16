@@ -48,3 +48,11 @@ header .nav-link{
 	font-size:72px;
 	color:white;
 }
+.section2,.section3{
+	padding:100px 0;
+}
+.section2__form{
+	width:100%;
+	max-width:600px;
+	margin:0 auto;
+}
